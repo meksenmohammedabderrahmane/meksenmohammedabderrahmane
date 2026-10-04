@@ -15,7 +15,7 @@
 
 ### 👤 About Me
 
-I'm a **Full-Stack Software Engineer** and **Cybersecurity Researcher** (CS Student @ [ESTIN](https://estin.dz/)) with hands-on experience building and deploying production-ready web applications, esports infrastructure, and defensive security tooling.
+I'm a **Full-Stack Software Engineer** and **Cybersecurity Researcher** (CS Student @ [Université 20 Août 1955 - Skikda](https://univ-skikda.dz/)) with hands-on experience building and deploying production-ready web applications, esports infrastructure, and defensive security tooling.
 
 I work across the full development lifecycle — from designing real-time WebSocket engines, relational database architectures, and secure auth flows, to crafting high-performance UIs, reverse-engineering binaries, and integrating modern AI models. I've built and shipped real-world production platforms tested with **700+ active users**, utilizing technologies like **TypeScript, Next.js, Node.js, PostgreSQL, Docker, and Python**.
 
