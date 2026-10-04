@@ -42,32 +42,38 @@ I'm currently available for **software engineering internships, freelance projec
 
 ### 📌 Featured Projects
 
-#### 🎮 [N1 Arena](https://numberonearena.xyz/) - Full-Stack Esports Tournament Platform
+> *Note: Production platforms (N1 Arena, CampusFranceSim, bots) are active live deployments with private source code to protect production API keys, credentials, and live commercial databases.*
+
+#### 🎮 N1 Arena - Full-Stack Esports Tournament Platform
 `Next.js 14` • `Fastify / Express` • `PostgreSQL` • `Prisma` • `Socket.IO` • `TypeScript`
 - Production tournament platform for competitive gaming featuring automated single and double-elimination brackets.
 - Real-time match tracking and dispute resolution via WebSockets, in-platform DZD wallet economy (20,000+ DZD distributed), Discord OAuth, and admin RBAC.
 - **Tested in production with 700+ active players.**
-- **Live:** [numberonearena.xyz](https://numberonearena.xyz/)
+- **Deployment:** Live Production *(Private Source)* • **Live:** [numberonearena.xyz](https://numberonearena.xyz/)
 
-#### 🎙️ [CampusFranceSim](https://github.com/meksenmohammedabderrahmane) - AI Speech Interview Simulator
+#### 🎙️ CampusFranceSim - AI Speech Interview Simulator
 `React 19` • `Next.js` • `Google Gemini AI` • `Web Speech API` • `Tailwind CSS` • `jsPDF`
 - Interactive voice-streamed simulation app for students preparing for Campus France academic interviews.
-- Features continuous speech recognition, real-time examiner dialogue, official 5-pillar grading matrix, and instant PDF evaluation reports.
+- Continuous real-time speech recognition, LLM examiner analysis, official 5-pillar grading matrix, and instant PDF evaluation reports.
+- **Deployment:** Active Web Application *(Private Source)*
 
-#### 🎯 [Valorant Arena Bot](https://github.com/meksenmohammedabderrahmane) - Competitive Matchmaking & ELO Engine
+#### 🎯 Valorant Arena Bot - Competitive Matchmaking & ELO Engine
 `Node.js` • `Discord.js v14` • `SQLite (sql.js)`
 - Tournament-grade 5v5 custom scrim matchmaking engine for Discord esports communities.
-- Implements mathematical snake-draft balancing, interactive captain pick-and-ban phases, automated voice channel routing, and persistent ELO/MMR ratings with win-streak multipliers.
+- Mathematical snake-draft balancing, interactive captain pick-and-ban phases, automated voice channel routing, and persistent ELO/MMR ratings with win-streak multipliers.
+- **Deployment:** Active Discord Infrastructure *(Private Source)*
 
-#### 🛍️ [N1 Shop](https://github.com/meksenmohammedabderrahmane) - Digital Storefront & Payments
+#### 🛍️ N1 Shop - Digital Storefront & Payments
 `Next.js (App Router)` • `React 19` • `Tailwind CSS v4` • `Framer Motion` • `Nodemailer`
 - E-commerce companion to N1 Arena for instant voucher redemption, esports merchandise pre-orders, and automated order notifications with phone number verification.
+- **Deployment:** Active Production *(Private Source)*
 
-#### 🛡️ [Security Tools & Systems Engineering](https://github.com/meksenmohammedabderrahmane)
+#### 🛡️ Open-Source Security Tools & Systems Engineering
 `Python` • `C++` • `C` • `Win32 API` • `Kali Linux`
 - **Password Strength & Leak Checker:** Evaluates password robustness via informational Shannon entropy and checks breached records through the HaveIBeenPwned k-anonymity API without exposing plain passwords.
 - **ExitLoader (C++):** Windows memory management, PE headers parsing, and dynamic DLL injection utility. ([Live Web UI](https://biggestcppprojectyet.netlify.app/))
 - **Task Manager CLI:** High-performance terminal task manager implemented in pure C with dynamic memory allocation, doubly linked lists, and binary file persistence.
+- **Code:** Open-source on [GitHub](https://github.com/meksenmohammedabderrahmane)
 
 ---
 
